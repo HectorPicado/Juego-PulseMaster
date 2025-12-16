@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">P6HPA</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo_del_juego">Logo del juego</string>
+    <string name="nombre">Name</string>
+    <string name="empezar_juego">START GAME</string>
+    <string name="pulsador_amarillo">Pulsador amarillo</string>
+    <string name="pulsadur_azul">Pulsadur azul</string>
+    <string name="pulsador_rojo">Pulsador rojo</string>
+    <string name="pulsador_verde">Pulsador verde</string>
+    <string name="instrucciones">INSTRUCTIONS</string>
+    <string name="jugar_de_nuevo">PLAY AGAIN</string>
+    <string name="salir">EXIT</string>
+    <string name="diario">DAILY</string>
+    <string name="general">GENERAL</string>
+    <string name="semanal">WEEKLY</string>
+    <string name="clasificaci_n">RANKING</string>
+    <string name="scrollview_de_las_distintas_clasificaciones">ScrollView de las distintas clasificaciones</string>
+    <string name="texto_del_ranking_de_jugadores_filtrado">Texto del ranking de jugadores filtrado</string>
+    <string name="pulsemaster_vs">PulseMaster vs %1$s</string>
+    <string name="empieza_pulsemaster_buena_suerte">PulseMaster starts, good luck...</string>
+    <string name="aceptar">Ok</string>
+    <string name="ronda_texto">ROUND: %1$d</string>
+    <string name="has_fallado">You failed!</string>
+    <string name="hasta_aqu_ha_llegado_tu_aventura">Your adventure ends here...</string>
+    <string name="continuar">Continue</string>
+    <string name="puntuaci_n">POINTS: %1$d</string>
+    <string name="introduce_un_nombre">Enter a name with more than 3 characters.</string>
+    <string name="daniel">Daniel</string>
+    <string name="miguel">Miguel</string>
+    <string name="hector">Héctor</string>
+    <string name="jesus">Jesus</string>
+    <string name="ivan">Iván</string>
+    <string name="url_reglas">https://en.wikipedia.org/wiki/Simon_(game)</string>
+    <string name="posicion_usuario">%1$s, you are ranked %2$d</string>
+    <string name="juego_reiniciado">Game Reset</string>
+    <string name="has_salido_de_la_aplicaci_n_empiezas_de_cero">You left the app, so you must start over.</string>
+</resources>
