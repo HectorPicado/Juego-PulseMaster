@@ -6,7 +6,7 @@ Juego de memoria visual y auditiva estilo "Simón Dice" desarrollado en **Kotlin
 
 Aquí puedes ver la fluidez de las animaciones, el fondo en movimiento y la sincronización de sonidos.
 
-[PulseMaster.webm](https://github.com/user-attachments/assets/31d24c8b-1d2a-4448-a0dc-0d80c3d05e7c)
+[PuzleMaster.webm](https://github.com/user-attachments/assets/c98704b0-f715-4cf2-b4e8-c478f0a1475e)
 
 
 ## 🛠️ Tecnologías y Conceptos Clave
