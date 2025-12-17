@@ -4,7 +4,10 @@ Juego de memoria visual y auditiva estilo "Simón Dice" desarrollado en **Kotlin
 
 ## 📱 Demostración
 
-El juego cuenta con una interfaz inmersiva que incluye un **fondo de video en bucle** y efectos de sonido sincronizados para mejorar la experiencia de usuario.
+Aquí puedes ver la fluidez de las animaciones, el fondo en movimiento y la sincronización de sonidos.
+
+[PulseMaster.webm](https://github.com/user-attachments/assets/31d24c8b-1d2a-4448-a0dc-0d80c3d05e7c)
+
 
 ## 🛠️ Tecnologías y Conceptos Clave
 
